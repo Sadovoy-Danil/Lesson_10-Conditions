@@ -20,7 +20,9 @@
     case num > 80:
         console.log('Все ещё много!');
         break;
-    case num == 50:
+    case 50:
         console.log('Верно!');
         break;
+    default: // Действие, которое выполнится, если не сработают предыдущие
+        console.log('Что-то пошло не так!');
  }
