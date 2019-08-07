@@ -7,3 +7,5 @@
  } else {
      console.log('Верно!');
  }
+
+ (num == 5) ? console.log('Верно!') : console.log('Неверно!'); // Тернарный оператор
