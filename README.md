@@ -1,4 +1,4 @@
-# Lesson_9-Conditions
+# Lesson_10-Conditions
 
 ## Условие — одно из важнейших понятий в JS
 
